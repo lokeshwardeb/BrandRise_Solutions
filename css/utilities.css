@@ -1,0 +1,34 @@
+:root{
+    --first-color: #0F1834;
+    --second-color: #B5C0DC;
+    --third-color: #246E9F;
+    --fourth-color: #29314A;
+}
+
+.cus-text-first-color{
+    color: var(--first-color) !important;
+}
+.cus-bg-first-color{
+    background-color: var(--first-color) !important;
+}
+.cus-text-second-color{
+    color: var(--second-color) !important;
+}
+.cus-bg-second-color{
+    background-color: var(--second-color) !important;
+}
+.cus-text-third-color{
+    color: var(--third-color) !important;
+}
+.cus-bg-third-color{
+    background-color: var(--third-color) !important;
+}
+.cus-bg-fourth-color{
+    background-color: var(--fourth-color) !important;
+}
+.cus-text-fourth-color{
+    background-color: var(--fourth-color) !important;
+}
+.img-section img{
+    border-radius: 50px !important;
+}
