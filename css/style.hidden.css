@@ -289,7 +289,14 @@ The design css starts here
     height: 100px;
     width: 100px;
 }
-
+.build_website_colum{
+    transition:  1s;
+}
+.build_website_colum:hover{
+    background-color: white !important;
+    color: black !important;
+    transform: scale(1.1);
+}
 
 
 
