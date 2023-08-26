@@ -1,0 +1,314 @@
+/* 
+=================================================
+
+Project name: BrandRise Solutions
+
+Description: The BrandRise Solutions is a website for the digital agency. It is developed and designed for the digital agencies. 
+
+# BrandRise Solutions
+
+## About Brandrise Solution
+
+### BrandRise solutions is an digital agency software (Website) which has been developed for the digital agency and related companies. The website has the mordern design with the lattest features. The website has been created with the mordern design sense and the minimalistic look.
+
+## The Features of the website
+
+### The website has many features, such as :-
+<ul> 
+
+#### <li>  Mordern Design </h4> </li>
+#### <li>  Fully Responsive  </li>
+#### <li> User Friendly </li>
+#### <li> Perfectly designed UI / Ux </li>
+#### <li> Designed for Best User Experience </li>
+
+</ul>
+
+#### Therefore, BrandRise solutions has more features like this.
+
+## The CyberSphere Innovations
+### The BrandRise Solutions is a product of the CyberSphere Innovations software company. It has been created, designed and developed by the CyberSphere Innovations Aurthor and the team of CyberSphere Innovations. 
+
+
+Aurthor(s) : The CyberSphere Innovations Team .
+
+
+License : THE WEBSITE INCLUDES ALL THE ENVATO ELEMENTS LICENSE POLICIES AND ALL THE THEMEFOREST LICENSE POLICIES.
+
+
+
+
+NOTE: THE WEBSITE INCLUDES ALL THE ENVATO ELEMENTS LICENSE POLICIES AND ALL THE THEMEFOREST LICENSE POLICIES.
+
+
+
+
+
+
+=================================================
+*/
+
+
+
+/* 
+===============================
+The design css starts here
+===============================
+
+*/
+
+
+
+
+/* hero section starts here */
+
+
+.hero-aria{
+    background: url(../img/hero-section-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    /* height: 100vh;
+    width: 100vw; */
+}
+
+
+
+
+/* hero section ends here */
+
+
+/* consatation box starts here */
+
+.consaltation-box{
+    /* background-color: rgba(205, 207, 221, .5); */
+    background-color: rgba(255, 255, 255, 0.4);
+
+    text-align: center !important;
+    margin: auto !important;
+    justify-content: center !important;
+}
+
+.consaltation-box-inputs input{
+    max-width: 235px !important;
+    margin: auto !important;
+    justify-content: center !important;
+}
+.consaltation-box-inputs select{
+    max-width: 235px !important;
+    margin: auto !important;
+    justify-content: center !important;
+    appearance: auto;
+}
+
+.icon_show{
+    appearance: none !important;
+}
+
+/* consatation box ends here */
+
+
+/* help section starts here */
+
+.help-section{
+    width: auto;
+    height: 40vh;
+    /* width: 100vw;
+    height: 40vh; */
+    background: #0F1834;
+}
+/* 9EA8C0 */
+
+.help-inputs select{
+
+    background-color: #9EA8C0;
+    appearance: auto;
+
+}
+.help-inputs select:enabled{
+
+    /* background-color: #9EA8C0 !important; */
+    appearance: auto;
+
+}
+
+
+/* help section ends here */
+
+
+
+
+/* services details section starts here */
+
+.services-details-section{
+    height: auto;
+    width: auto;
+    /* width: 100vw; */
+    background: linear-gradient( rgba(0, 153, 255, .5), rgba(0, 139, 232, 0.5)),  url(../img/how-can-we-help.jpg);
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+    
+
+}
+
+.team_work_img{
+    max-height: auto !important;
+    min-width: auto !important;
+    border-radius: 50px !important;
+}
+
+
+
+
+/* services details section ends here */
+
+
+/* our website section starts here */
+
+.our-website-section{
+    height: auto;
+    width: auto;
+}
+.our-website-second-section{
+    height: auto;
+    width: auto;
+}
+
+
+/* our website section starts here */
+
+/* our services section starts here */
+
+.our-services-sections{
+    height: auto;
+    width: auto;
+}
+.our-services-sub-section1 {
+    height: auto;
+    width: auto;
+}
+.our-services-sub-main-section{
+    height: 50vh;
+    width: 400px;
+    border-radius: 50px;
+    padding-top: 20px;
+}
+.section-img img{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+/* our services section ends here */
+
+
+
+
+/* testimonial section starts here */
+
+.testimonials-section{
+    height: auto !important;
+    width: auto !important;
+}
+.section-box{
+    height: 400px;
+}
+.testi-box{
+    height: auto;
+}
+.img-sect img{
+    /* height: 60px;
+    width: 50px; */
+    max-height: 60px;
+    max-width: 50px;
+}
+.star_img{
+    height: 50px;
+    width: auto;
+    text-align: center !important;
+    margin: auto !important;
+}
+
+
+/* testimonial section ends here */
+
+
+
+
+/* about us section starts here */
+
+.section-desc-about-us{
+    height: auto;
+    width: auto;
+    /* height: 100vh;
+    width: 100vw; */
+}
+
+.office_img{
+
+}
+.about-us-desc{
+    border-radius: 50px;
+}
+.social_img{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* about us section ends here */
+
+
+
+
+
+/* logo section starts here */
+
+.logo_img{
+    height: 200px !important;
+    width: 200px !important;
+}
+.logo_img_top{
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+/* logo section ends here */
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+============================
+The design css ends here
+============================
+
+*/
