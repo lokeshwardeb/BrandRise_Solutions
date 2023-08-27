@@ -64,7 +64,8 @@ The design css starts here
 
 
 .hero-aria{
-    background: url(../img/hero-section-img.jpg);
+    /* change the background img url here to set your choosen img */
+    background: url( );
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -146,7 +147,9 @@ The design css starts here
     height: auto;
     width: auto;
     /* width: 100vw; */
-    background: linear-gradient( rgba(0, 153, 255, .5), rgba(0, 139, 232, 0.5)),  url(../img/how-can-we-help.jpg);
+
+    /* set the image path to the background url  */
+    background: linear-gradient( rgba(0, 153, 255, .5), rgba(0, 139, 232, 0.5)),  url( );
     
     background-position: center;
     background-size: cover;
